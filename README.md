@@ -16,4 +16,4 @@ export PARTICLE_PASS='password'
 ```
 
 ## API
-* [callFunction](callFunction)
+* [callFunction](callFunction/)
