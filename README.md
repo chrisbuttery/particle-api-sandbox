@@ -17,3 +17,8 @@ export PARTICLE_PASS='password'
 
 ## API
 * [callFunction](callFunction/)
+* ListDevice
+* claimDevice
+* flashDevice
+* getDevice
+* getVariable
