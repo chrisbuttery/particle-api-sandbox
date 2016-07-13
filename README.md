@@ -22,3 +22,13 @@ export PARTICLE_PASS='password'
 * flashDevice
 * getDevice
 * getVariable
+* removeDevice
+* renameDevice
+* signalDevice
+* sendPublicKey
+* getEventStream
+* publishEvent
+* compileCode
+* createUser
+* listAccessTokens
+* removeAccessToken
