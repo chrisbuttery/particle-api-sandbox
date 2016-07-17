@@ -34,3 +34,11 @@ Current Devices:
   { id: '1111111111', name: 'wombat_ranger' },
   { id: '2222222222', name: 'turkey_morphing' } ]
 ```
+
+### Usage
+
+No hardware or `.ino` files needed for this example
+
+```bash
+% node removeAndClaimDevice.js
+```
