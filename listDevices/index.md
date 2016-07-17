@@ -1,6 +1,6 @@
 ## listDevices
 
-This is a slight variation of the [callFunction]() example.
+This is a slight variation of the [../callFunction]() example.
 
 Instead of passing in an explicit device id, we're going to query out Particle cloud account for a list of devices and filter out the first one with the
 `connected: true` prop/value.
