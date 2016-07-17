@@ -4,7 +4,7 @@ const particle = new Particle()
 // creds
 const USER = process.env.PARTICLE_USER
 const PASS = process.env.PARTICLE_PASS
-const DEVICE = process.env.PARTICLE_DEVICE_ID_2
+const DEVICE = process.env.PARTICLE_DEVICE_ID
 
 /**
  * login
