@@ -19,11 +19,11 @@ export PARTICLE_DEVICE_ID="your_device_id"
 ## API
 * [callFunction](callFunction/)
 * [listDevices](listDevices/)
-* claimDevice
+* [claimDevice](removeAndClaimDevice)
 * flashDevice
 * getDevice
 * getVariable
-* removeDevice
+* [removeDevice](removeAndClaimDevice)
 * renameDevice
 * signalDevice
 * sendPublicKey
