@@ -19,7 +19,7 @@ function login () {
     password: PASS
   })
   .then((res) => {
-    console.log('connected')
+    console.log('Connected to Particle')
     return toggleLED(res.body.access_token)
   })
   .catch((err) => {

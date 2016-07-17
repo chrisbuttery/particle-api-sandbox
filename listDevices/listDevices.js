@@ -18,7 +18,7 @@ function login () {
     password: PASS
   })
   .then((res) => {
-    console.log('connected')
+    console.log('Connected to Particle')
     return listUserDevices(res.body.access_token)
   })
   .catch((err) => {
