@@ -14,20 +14,20 @@ const DEVICE = process.env.PARTICLE_DEVICE_ID
 ```bash
 Connected to Particle
 
-Removed Device: 1234567890
+Removed Device: 3333333333
  { body: { ok: true }, statusCode: 200 }
 
-Claimed Device:
+Current Devices:
+ [ { id: '1111111111', name: 'wombat_ranger' },
+  { id: '2222222222', name: 'turkey_morphing' } ]
+
+Claimed Device: 3333333333
  { body:
    { user_id: '1234',
      id: '3333333333',
      connected: true,
      ok: true },
   statusCode: 200 }
-
-Current Devices:
- [ { id: '1111111111', name: 'wombat_ranger' },
-  { id: '2222222222', name: 'turkey_morphing' } ]
 
 Current Devices:
  [ { id: '3333333333', name: 'captain_narwhal' },
