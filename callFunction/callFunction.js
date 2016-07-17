@@ -32,7 +32,7 @@ function login () {
  * action callFunction() referencing the led() function flashed to the device.
  * On success of callFunction() call itself recursively, passing in token and
  * return value from the response.
- * @param  {String} tkn - the token passed in from login()
+ * @param  {String} token - the token passed in from login()
  * @param  {Number} val - the return value of led(). 1 or a 0
  */
 
@@ -51,5 +51,5 @@ function toggleLED (token, val) {
   })
 }
 
-// kick it off
+// kick out the jams
 login()
