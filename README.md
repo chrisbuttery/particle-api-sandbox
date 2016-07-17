@@ -20,7 +20,7 @@ export PARTICLE_DEVICE_ID="your_device_id"
 * [callFunction](callFunction/)
 * [listDevices](listDevices/)
 * [claimDevice](removeAndClaimDevice)
-* flashDevice
+* [flashDevice](flashDevice/)
 * getDevice
 * getVariable
 * [removeDevice](removeAndClaimDevice)
