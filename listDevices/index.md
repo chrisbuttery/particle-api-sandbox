@@ -7,7 +7,7 @@ Instead of passing in an explicit device id, we're going to query out Particle c
 
 We'll then pass the connected device if to a function that will then call the `led` function flashed on the device - turning the LED on.
 
-![alt tag](https://github.com/chrisbuttery/particle-api-sandbox/blob/master/listDevices/fritzing.gif)
+![alt tag](https://github.com/chrisbuttery/particle-api-sandbox/blob/master/listDevices/fritzing.png)
 
 ### JS
 
