@@ -2,7 +2,7 @@
 
 In this example, we'll flash the device with a local `pulsate.ino` file.
 
-![alt tag](https://github.com/chrisbuttery/particle-api-sandbox/blob/master/flashDevices/fritzing.gif)
+![alt tag](https://github.com/chrisbuttery/particle-api-sandbox/blob/master/flashDevice/fritzing.gif)
 
 
 ## JS
