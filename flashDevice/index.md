@@ -35,3 +35,9 @@ particle.flashDevice({
 ### INO
 
 The example `pulsate.ino` file is just a simple loop that turns LEDs `D0` and `D7` on and off with a pulsating effect.
+
+### Usage
+
+```bash
+% node flashDevice.js
+```
