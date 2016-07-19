@@ -24,7 +24,7 @@ export PARTICLE_DEVICE_ID="your_device_id"
 * [getDevice](getDevice/)
 * getVariable
 * [removeDevice](removeAndClaimDevice)
-* renameDevice
+* [renameDevice](renameDevice/)
 * signalDevice
 * sendPublicKey
 * getEventStream
