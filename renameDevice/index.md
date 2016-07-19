@@ -19,3 +19,9 @@ This method takes 1 param (our access token returned from login) and returns a P
   statusCode: 200
 }
 ```
+
+### Usage
+
+```bash
+% node renameDevice.js
+```
