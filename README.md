@@ -21,7 +21,7 @@ export PARTICLE_DEVICE_ID="your_device_id"
 * [listDevices](listDevices/)
 * [claimDevice](removeAndClaimDevice)
 * [flashDevice](flashDevice/)
-* getDevice
+* [getDevice](getDevice/)
 * getVariable
 * [removeDevice](removeAndClaimDevice)
 * renameDevice
